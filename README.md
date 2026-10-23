@@ -64,16 +64,21 @@ LLM-native scraping — describe what you want, get structured data.
 
 Pre-built extractors for the most-demanded sources (mostly on Apify Store).
 
-- **[Google Maps Scraper](https://console.apify.com/https://apify.com: names, phones, websites, reviews.
-- **[Google Maps + Contact Details](https://console.apify.com/sign-up?fpr=dx06p)** — Samhttps://apify.cominess website.
-- **[Amazon Crawler](https://console.apify.com/sign-up?fpr=dx06p)** — Products, prices, ASINs, revihttps://apify.com://console.apify.com/sign-up?fpr=dx06p)** — Profiles, posts, comments, hashtags.
-- **[TikTok Scrapehttps://apify.com06p)** — Videos, trends, hashtags, profiles.
-- **[Twitter/X Scraper](https://console.apifyhttps://apify.coms, threads.
-- **[Google Search Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — SERhttps://apify.comso-ask.
-- **[Google Jobs Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — Job https://apify.com**[Shopify Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — Full store catalogs: products, prices, varihttps://apify.com.apify.com/sign-up?fpr=dx06p)** — Channels, videos, comments, transcripts.
+- **[Google Maps Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — Names, phones, websites, reviews.
+- **[Google Maps + Contact Details](https://console.apify.com/sign-up?fpr=dx06p)** — Emails and socials from each business website.
+- **[Amazon Crawler](https://console.apify.com/sign-up?fpr=dx06p)** — Products, prices, ASINs, reviews.
+- **[Instagram Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — Profiles, posts, comments, hashtags.
+- **[TikTok Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — Videos, trends, hashtags, profiles.
+- **[Twitter/X Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — Tweets, threads.
+- **[Google Search Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — SERPs, ads, people-also-ask.
+- **[Google Jobs Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — Job boards at scale.
+- **[Shopify Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — Full store catalogs: products, prices, variants.
+- **[YouTube Scraper](https://console.apify.com/sign-up?fpr=dx06p)** — Channels, videos, comments, transcripts.
 
-## 📚 Libraries & Framewhttps://apify.comtps://scrapy.org)** — Python's industrial-strength crawling framework.
-- **[Crawlee](https://crawlee.dehttps://apify.comify; anti-blocking, session pools, storage.
+## 📚 Libraries & Frameworks
+
+- **[Scrapy](https://scrapy.org)** — Python's industrial-strength crawling framework.
+- **[Crawlee](https://crawlee.dev)** — From Apify; anti-blocking, session pools, storage.
 - **[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)** + **[lxml](https://lxml.de)** — Python HTML parsing staples.
 - **[Cheerio](https://cheerio.js.org)** — jQuery-like server-side HTML parsing for Node.
 - **[Crawlee for Python](https://crawlee.dev/python)** — TypeScript's best crawler ported with Playwright support.
